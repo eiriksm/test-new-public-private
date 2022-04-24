@@ -1,5 +1,6 @@
 {
     "require": {
-        "pSr/log": "1.0.0"
+        "psr/log": "1.0.0",
+        "composer-plugin-api": "^2.0"
     }
 }
